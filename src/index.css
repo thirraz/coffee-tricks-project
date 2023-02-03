@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.kitchenAppBg {
+  background-image: url("./assets/images/kitchenBackground.jpg");
+  background-repeat: no-repeat;
+}
+
+.coffeeStudyBg {
+  background-image: url("./assets/images/coffeeStudyBackground.png");
+  background-size: cover;
+}
